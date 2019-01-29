@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Organization" max_length="40" name="x_287795_pta_organization" type="collection">
+        <element label="Accronym" max_length="10" name="u_accronym" type="string"/>
+        <element label="Approved by" max_length="40" name="u_approved_by" type="string"/>
+        <element label="City" max_length="40" name="u_city" type="string"/>
+        <element label="Description" max_length="250" name="u_description" type="string"/>
+        <element label="Document ID" max_length="20" name="u_doc_id" reference="x_287795_pta_task" type="reference"/>
+        <element label="Organization name" max_length="40" name="u_organization_name" type="string"/>
+        <element label="State" max_length="2" name="u_state" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="u_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Active" sequence="1" value="Active"/>
+                <element inactive_on_update="false" label="Inactive" sequence="2" value="Inactive"/>
+            </choice>
+        </element>
+        <element label="Website" max_length="40" name="u_website" type="url"/>
+        <element label="Year" max_length="4" name="u_year" type="string"/>
+    </element>
+</database>

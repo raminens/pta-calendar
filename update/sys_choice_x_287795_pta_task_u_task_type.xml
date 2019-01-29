@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_task_type" table="x_287795_pta_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 22:26:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0bce7d54f532300abeefa218110c743</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 22:26:55</sys_updated_on>
+            <value>Yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 22:27:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cccc2f954f532300abeefa218110c70d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 22:27:09</sys_updated_on>
+            <value>No</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Depends on board meetings</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 22:27:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fcc2bd54f532300abeefa218110c76d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 22:27:28</sys_updated_on>
+            <value>Depends on board meetings</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_task_type</element>
+            <name>x_287795_pta_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 22:26:55</sys_created_on>
+            <sys_id>4bbca3d54f532300abeefa218110c76c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_task_type</sys_name>
+            <sys_package display_value="PTA" source="x_287795_pta">ba3127554f132300abeefa218110c717</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PTA">ba3127554f132300abeefa218110c717</sys_scope>
+            <sys_update_name>sys_choice_x_287795_pta_task_u_task_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 22:26:55</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

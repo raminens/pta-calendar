@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_group" table="x_287795_pta_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Marketing</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:37:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2bccbf914f932300abeefa218110c7fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:37:24</sys_updated_on>
+            <value>Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Company operations</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:37:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1cec37914f932300abeefa218110c75d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:37:43</sys_updated_on>
+            <value>Company operations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human resources</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:37:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>74fcf7914f932300abeefa218110c733</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:37:59</sys_updated_on>
+            <value>Human resources</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Financial operations</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:39:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a3dff914f932300abeefa218110c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:39:17</sys_updated_on>
+            <value>Financial operations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Compliance</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:39:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b74d33d14f932300abeefa218110c71a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:39:32</sys_updated_on>
+            <value>Compliance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Information technology</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:43:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>262e73d14f932300abeefa218110c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:43:24</sys_updated_on>
+            <value>Information technology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Credit</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:43:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>984e73d14f932300abeefa218110c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:43:40</sys_updated_on>
+            <value>Credit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Operations</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:43:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>285eff914f932300abeefa218110c7e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:43:58</sys_updated_on>
+            <value>Operations</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_group</element>
+            <name>x_287795_pta_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:37:24</sys_created_on>
+            <sys_id>5fdcf7914f932300abeefa218110c78c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_group</sys_name>
+            <sys_package display_value="PTA" source="x_287795_pta">ba3127554f132300abeefa218110c717</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PTA">ba3127554f132300abeefa218110c717</sys_scope>
+            <sys_update_name>sys_choice_x_287795_pta_task_u_group</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:37:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

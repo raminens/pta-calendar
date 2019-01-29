@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_287795_pta_task" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_assigned_to</element>
+            <list_id display_value="x_287795_pta_task" element="NULL" name="x_287795_pta_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a026bb5d4f532300abeefa218110c7e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:07:59</sys_created_on>
+            <sys_id>6426bf5d4f532300abeefa218110c736</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:07:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_date_created</element>
+            <list_id display_value="x_287795_pta_task" element="NULL" name="x_287795_pta_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a026bb5d4f532300abeefa218110c7e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:07:59</sys_created_on>
+            <sys_id>e426bf5d4f532300abeefa218110c736</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:07:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_description</element>
+            <list_id display_value="x_287795_pta_task" element="NULL" name="x_287795_pta_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a026bb5d4f532300abeefa218110c7e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:07:59</sys_created_on>
+            <sys_id>6826bf5d4f532300abeefa218110c736</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:07:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_doc_id</element>
+            <list_id display_value="x_287795_pta_task" element="NULL" name="x_287795_pta_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a026bb5d4f532300abeefa218110c7e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:07:59</sys_created_on>
+            <sys_id>e826bf5d4f532300abeefa218110c736</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:07:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_fund_class</element>
+            <list_id display_value="x_287795_pta_task" element="NULL" name="x_287795_pta_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a026bb5d4f532300abeefa218110c7e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:07:59</sys_created_on>
+            <sys_id>6c26bf5d4f532300abeefa218110c736</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:07:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_location</element>
+            <list_id display_value="x_287795_pta_task" element="NULL" name="x_287795_pta_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a026bb5d4f532300abeefa218110c7e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:07:59</sys_created_on>
+            <sys_id>ec26bf5d4f532300abeefa218110c736</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:07:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_month</element>
+            <list_id display_value="x_287795_pta_task" element="NULL" name="x_287795_pta_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a026bb5d4f532300abeefa218110c7e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:07:59</sys_created_on>
+            <sys_id>6026bf5d4f532300abeefa218110c737</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:07:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_owner_email</element>
+            <list_id display_value="x_287795_pta_task" element="NULL" name="x_287795_pta_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a026bb5d4f532300abeefa218110c7e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:07:59</sys_created_on>
+            <sys_id>e026bf5d4f532300abeefa218110c737</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:07:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_owner_name</element>
+            <list_id display_value="x_287795_pta_task" element="NULL" name="x_287795_pta_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a026bb5d4f532300abeefa218110c7e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:07:59</sys_created_on>
+            <sys_id>6426bf5d4f532300abeefa218110c737</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:07:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_status</element>
+            <list_id display_value="x_287795_pta_task" element="NULL" name="x_287795_pta_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">a026bb5d4f532300abeefa218110c7e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:07:59</sys_created_on>
+            <sys_id>e426bf5d4f532300abeefa218110c737</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:07:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_287795_pta_task</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 23:07:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a026bb5d4f532300abeefa218110c7e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_287795_pta_task</sys_name>
+            <sys_package display_value="PTA" source="x_287795_pta">ba3127554f132300abeefa218110c717</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PTA">ba3127554f132300abeefa218110c717</sys_scope>
+            <sys_update_name>sys_ui_list_x_287795_pta_task_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 23:07:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

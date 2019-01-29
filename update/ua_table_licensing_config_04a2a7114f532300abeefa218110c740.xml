@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_287795_pta_organization</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-28 21:42:46</sys_created_on>
+        <sys_id>04a2a7114f532300abeefa218110c740</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_287795_pta_organization</sys_name>
+        <sys_package display_value="PTA" source="x_287795_pta">ba3127554f132300abeefa218110c717</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PTA">ba3127554f132300abeefa218110c717</sys_scope>
+        <sys_update_name>ua_table_licensing_config_04a2a7114f532300abeefa218110c740</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-28 21:42:46</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

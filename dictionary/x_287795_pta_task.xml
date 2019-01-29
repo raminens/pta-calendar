@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Task" max_length="40" name="x_287795_pta_task" type="collection">
+        <element label="Assigned to" max_length="40" name="u_assigned_to" type="string"/>
+        <element label="Date created" max_length="40" name="u_date_created" type="glide_date"/>
+        <element label="Description" max_length="250" name="u_description" type="string"/>
+        <element label="Task ID" max_length="40" name="u_doc_id" type="string"/>
+        <element choice="1" label="Fund class" max_length="40" name="u_fund_class" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="COLOTRUST" sequence="0" value="COLOTRUST"/>
+                <element inactive_on_update="false" label="Michigan CLASS" sequence="1" value="Michigan CLASS"/>
+                <element inactive_on_update="false" label="NYCLASS" sequence="2" value="NYCLASS"/>
+                <element inactive_on_update="false" label="Public Trust Advisors" sequence="3" value="Public Trust Advisors"/>
+                <element inactive_on_update="false" label="Texas CLASS" sequence="4" value="Texas CLASS"/>
+                <element inactive_on_update="false" label="TrustINdiana" sequence="5" value="TrustINdiana"/>
+            </choice>
+        </element>
+        <element choice="1" label="Group" max_length="40" name="u_group" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Marketing" sequence="1" value="Marketing"/>
+                <element inactive_on_update="false" label="Company operations" sequence="2" value="Company operations"/>
+                <element inactive_on_update="false" label="Human resources" sequence="3" value="Human resources"/>
+                <element inactive_on_update="false" label="Financial operations" sequence="4" value="Financial operations"/>
+                <element inactive_on_update="false" label="Compliance" sequence="5" value="Compliance"/>
+                <element inactive_on_update="false" label="Information technology" sequence="6" value="Information technology"/>
+                <element inactive_on_update="false" label="Credit" sequence="7" value="Credit"/>
+                <element inactive_on_update="false" label="Operations" sequence="8" value="Operations"/>
+            </choice>
+        </element>
+        <element label="Location" max_length="40" name="u_location" type="string"/>
+        <element choice="1" label="Month" max_length="3" name="u_month" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="JAN" sequence="1" value="January"/>
+                <element inactive_on_update="false" label="FEB" sequence="2" value="February"/>
+                <element inactive_on_update="false" label="MAR" sequence="3" value="March"/>
+                <element inactive_on_update="false" label="APR" sequence="4" value="April"/>
+                <element inactive_on_update="false" label="MAY" sequence="5" value="May"/>
+                <element inactive_on_update="false" label="JUN" sequence="6" value="June"/>
+                <element inactive_on_update="false" label="JUL" sequence="7" value="July"/>
+                <element inactive_on_update="false" label="AUG" sequence="8" value="August"/>
+                <element inactive_on_update="false" label="SEP" sequence="9" value="September"/>
+                <element inactive_on_update="false" label="OCT" sequence="10" value="October"/>
+                <element inactive_on_update="false" label="NOV" sequence="11" value="November"/>
+                <element inactive_on_update="false" label="DEC" sequence="12" value="December"/>
+            </choice>
+        </element>
+        <element label="Owner email" max_length="40" name="u_owner_email" type="string"/>
+        <element label="Owner name" max_length="40" name="u_owner_name" type="string"/>
+        <element choice="1" label="Priority" max_length="40" name="u_priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1-Critical" sequence="1" value="1-Critical"/>
+                <element inactive_on_update="false" label="2-High" sequence="2" value="2-High"/>
+                <element inactive_on_update="false" label="3-Medium" sequence="3" value="3-Medium"/>
+                <element inactive_on_update="false" label="4-Low" sequence="4" value="4-Low"/>
+            </choice>
+        </element>
+        <element choice="1" label="Status" max_length="40" name="u_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="Pending"/>
+                <element inactive_on_update="false" label="Work in progress" sequence="2" value="Work in progress"/>
+                <element inactive_on_update="false" label="Closed complete" sequence="3" value="Closed complete"/>
+                <element inactive_on_update="false" label="Closed incomplete" sequence="4" value="Closed incomplete"/>
+            </choice>
+        </element>
+        <element choice="1" label="Task category" max_length="40" name="u_task_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Annual" sequence="1" value="Annual"/>
+                <element inactive_on_update="false" label="Registration" sequence="2" value="Registration"/>
+                <element inactive_on_update="false" label="Lease" sequence="3" value="Lease"/>
+                <element inactive_on_update="false" label="Review" sequence="4" value="Review"/>
+                <element inactive_on_update="false" label="Renewal" sequence="5" value="Renewal"/>
+                <element inactive_on_update="false" label="Tax" sequence="6" value="Tax"/>
+                <element inactive_on_update="false" label="Account" sequence="7" value="Account"/>
+                <element inactive_on_update="false" label="Employee" sequence="8" value="Employee"/>
+                <element inactive_on_update="false" label="Contract" sequence="9" value="Contract"/>
+                <element inactive_on_update="false" label="Client" sequence="10" value="Client"/>
+                <element inactive_on_update="false" label="Test" sequence="11" value="Test"/>
+                <element inactive_on_update="false" label="Report" sequence="12" value="Report"/>
+                <element inactive_on_update="false" label="Communication" sequence="13" value="Meetings"/>
+                <element inactive_on_update="false" label="Contributions" sequence="14" value="Contributions"/>
+                <element inactive_on_update="false" label="Form" sequence="15" value="Form"/>
+                <element inactive_on_update="false" label="Other" sequence="16" value="Other"/>
+            </choice>
+        </element>
+        <element label="Task name" max_length="100" name="u_task_name" type="string"/>
+        <element choice="1" label="Task type" max_length="40" name="u_task_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="1" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="2" value="No"/>
+                <element inactive_on_update="false" label="Depends on board meetings" sequence="3" value="Depends on board meetings"/>
+            </choice>
+        </element>
+    </element>
+</database>

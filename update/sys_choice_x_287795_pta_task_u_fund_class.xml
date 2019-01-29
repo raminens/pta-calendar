@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_fund_class" table="x_287795_pta_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_fund_class</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>COLOTRUST</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 22:16:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>133aab554f532300abeefa218110c7f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 22:16:14</sys_updated_on>
+            <value>COLOTRUST</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_fund_class</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Michigan CLASS</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 22:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b4aeb554f532300abeefa218110c757</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 22:16:32</sys_updated_on>
+            <value>Michigan CLASS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_fund_class</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NYCLASS</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 22:16:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d35aa7554f532300abeefa218110c731</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 22:16:48</sys_updated_on>
+            <value>NYCLASS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_fund_class</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Public Trust Advisors</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 22:17:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d76aa3554f532300abeefa218110c7c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 22:17:13</sys_updated_on>
+            <value>Public Trust Advisors</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_fund_class</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Texas CLASS</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 22:17:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed8ae3554f532300abeefa218110c716</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 22:17:29</sys_updated_on>
+            <value>Texas CLASS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_fund_class</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TrustINdiana</label>
+            <language>en</language>
+            <name>x_287795_pta_task</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 22:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d59aaf554f532300abeefa218110c797</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 22:17:50</sys_updated_on>
+            <value>TrustINdiana</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_fund_class</element>
+            <name>x_287795_pta_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-28 22:16:14</sys_created_on>
+            <sys_id>de4aeb554f532300abeefa218110c754</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_fund_class</sys_name>
+            <sys_package display_value="PTA" source="x_287795_pta">ba3127554f132300abeefa218110c717</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PTA">ba3127554f132300abeefa218110c717</sys_scope>
+            <sys_update_name>sys_choice_x_287795_pta_task_u_fund_class</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-28 22:16:14</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
